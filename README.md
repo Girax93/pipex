@@ -1,4 +1,4 @@
-Pipex almost complete.
+Pipex with bonus. 
 Inspired by BatuSengezer & gabcollet
 
 Batu = https://github.com/BatuSengezer?tab=repositories \n
