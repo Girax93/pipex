@@ -1,7 +1,7 @@
 Pipex almost complete.
 Inspired by BatuSengezer & gabcollet
 
-Batu = https://github.com/BatuSengezer?tab=repositories
+Batu = https://github.com/BatuSengezer?tab=repositories \n
 Gabriel = https://github.com/gabcollet?tab=repositories
 
 
