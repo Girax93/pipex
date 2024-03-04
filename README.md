@@ -1,7 +1,7 @@
 Pipex with bonus. 
 Inspired by BatuSengezer & gabcollet
 
-Batu = https://github.com/BatuSengezer?tab=repositories \n
+Batu = https://github.com/BatuSengezer?tab=repositories \
 Gabriel = https://github.com/gabcollet?tab=repositories
 
 
