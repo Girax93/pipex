@@ -1,9 +1,6 @@
-Pipex with bonus. 
-Inspired by BatuSengezer & gabcollet
+A recreation of the linux terminal pipes ( | ), including redirections ( > and >> ), and HEREDOC.
 
-Batu = https://github.com/BatuSengezer?tab=repositories \
-Gabriel = https://github.com/gabcollet?tab=repositories
-
+# Intro
 
 This pipex is written with the intention to make it as easily to read and follow as possible.
 For that reason, I have split functions that could have been compressed into one, into multiple easy-to-read functions.
