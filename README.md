@@ -2,7 +2,7 @@ A recreation of the linux terminal pipes ( | ), including redirections ( > and >
 
 # Intro
 
-This pipex is written with the intention to make it as easily to read and follow as possible.
+This pipex is written with the intention to make it as easily to read and follow for other 42 students as possible.
 For that reason, I have split functions that could have been compressed into one, into multiple easy-to-read functions.
 Each function is also complimented with a rundown of what is happening. 
 
